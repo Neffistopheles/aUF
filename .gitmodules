@@ -1,0 +1,3 @@
+[submodule "libs/uLib"]
+	path = libs/uLib
+	url = https://github.com/Neffistopheles/uLib.git

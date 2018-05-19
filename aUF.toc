@@ -6,7 +6,7 @@
 
 ## OptionalDeps: uLib
 
-libs\uLib.lua
+libs\uLib\uLib.lua
 
 main.lua
 tags.lua
