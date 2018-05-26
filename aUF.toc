@@ -1,7 +1,7 @@
 ## Interface: 12000
 
 ## Title: aUF
-## Notes: A's unit frames.
+## Notes: aUI Unit Frames
 ## Version: 1
 
 ## OptionalDeps: uLib
