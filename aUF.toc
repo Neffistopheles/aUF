@@ -1,7 +1,7 @@
 ## Interface: 12000
 
 ## Title: aUF
-## Notes: a's Unit Frames.
+## Notes: A's unit frames.
 ## Version: 1
 
 ## OptionalDeps: uLib
@@ -13,3 +13,5 @@ tags.lua
 handlers.lua
 
 templates\improvedstatusbar.xml
+
+config.lua
